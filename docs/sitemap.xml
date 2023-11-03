@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ontoligent.github.io/transductions/posts/text-and-knowledge/index.html</loc>
-    <lastmod>2023-11-03T15:37:08.067Z</lastmod>
+    <lastmod>2023-11-03T16:18:28.301Z</lastmod>
   </url>
   <url>
     <loc>https://ontoligent.github.io/transductions/index.html</loc>
-    <lastmod>2023-11-03T15:37:08.552Z</lastmod>
+    <lastmod>2023-11-03T16:18:29.363Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ontoligent.github.io/transductions/about.html</loc>
+    <lastmod>2023-11-03T16:18:29.816Z</lastmod>
   </url>
 </urlset>
