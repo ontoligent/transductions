@@ -1,9 +1,9 @@
 ---
 title: "Welcome To My Blog"
-author: {{ < author > }}
+author: {{< author >}}
 date: "2023-10-27"
 categories: [news]
-draft: true
+draft: false
 ---
 
 I am starting up a blog again. Hopefully, more stuff will appear here.

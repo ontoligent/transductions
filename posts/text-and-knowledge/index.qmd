@@ -8,16 +8,23 @@ execute:
   warning: false
 editor_options: 
   chunk_output_type: console
+draft: true
 ---
 
-# A
+The lens of the rationalization effect
 
-sdfdafasdf
+Disruption of tacit knowledge and practices
 
-# B
+Wikipedia and libraries, credentialling, etc.
 
-dasfasdfdsa
+LLMs
 
-# C
+Reading, writing, and knowledge
 
-sdafadsfd
+Creativity?
+
+Reference and connection
+
+Primary and secondary entextualization
+
+What kind of knowledge?
