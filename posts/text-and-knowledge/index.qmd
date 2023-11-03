@@ -1,0 +1,23 @@
+---
+title: 'Knowledge and Text'
+date: '2023-11-03'
+categories: ['AI', 'epistemology']
+description: 'Explores LLMs and their relationship to knowledge.'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+# A
+
+sdfdafasdf
+
+# B
+
+dasfasdfdsa
+
+# C
+
+sdafadsfd

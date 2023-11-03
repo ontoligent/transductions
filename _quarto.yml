@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "transductions"
+  title: "Transductions"
+  site-url: https://ontoligent.github.io/transductions
   navbar:
     right:
       - about.qmd
