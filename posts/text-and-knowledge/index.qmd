@@ -1,6 +1,7 @@
 ---
 title: 'Knowledge and Text'
 date: '2023-11-03'
+author: {{< author >}}
 categories: ['AI', 'epistemology']
 description: 'Explores LLMs and their relationship to knowledge.'
 execute: 
@@ -11,20 +12,35 @@ editor_options:
 draft: true
 ---
 
-The lens of the rationalization effect
+I look at the question of how approach LLMs in teaching and learning through the lens of what I call the rationalization effect.
 
-Disruption of tacit knowledge and practices
+The rationalization effect occurs when a technology, usually a computational technology or new media form, disrupts some form of tacit knowledge or an existing but unquestioned practice. An example is Wikipedia, which disrupted how students write papers when it came out. Students stopped going to libraries and began bypassing the credentialing system that libraries enforced. The response was a kind of moral panic about Wikipedia and of the internet in general as a source of credible information.
 
-Wikipedia and libraries, credentialling, etc.
+The rationalization effect was to throw into question the role of libraries and peer review and authority in the knowledge we expect students to acquire. Are libraries necessary? Are there other forms of credentialling knowledge opened up by Wikipedia and the web in general?
 
-LLMs
+Many Instructional technologists at the time argued that these new media provided an opportunity for students to understand more deeply the nature of scholarly sources, and to better understand what makes a good argument, what makes a valid argument. Wikipedia could be used to enhance students' critical thinking by forcing them to evaluate sources and even to edit Wikipedia pages and assign them categories, which Wikipedia provided, stating whether a paper lacks citations, for example.
 
-Reading, writing, and knowledge
+We are in a similar situation with generative AI and large language models in particular. The question is, what are these models and agents built on them disrupting? What forms of tacit knowledge and implicit practices are they blowing up?
 
-Creativity?
+To my mind it's about the nature of truth and its relationship to reading and writing – between knowledge and text. Is knowledge really "contained" in text?
 
-Reference and connection
+In our current educational practice we tacitly assume that it's an epistemically useful thing to do a lot of reading and then to do a lot of writing based on that reading, without some form of experiential engagement with the world entailed by the discourse involved. Now that we have tools that have, in a sense *done all the reading*, and can also do the writing, we have to ask, what do we intend by this process? What are expecting to get out of it?
 
-Primary and secondary entextualization
+What are we expecting our students to become as a result of the process of writing essays?
+
+The rationalization effect in this case has to do with rethinking and making sense of two things:
+
+1.  What kind of knowledge we want students to have.
+2.  What kind of knowledge we think reading and writing give.
+
+Regarding the first, there are two models of student knowledge that we have been employing over the years without being super clear about how they are related and which is more important. The first model is the traditional model of what is in the student's mind or brain. We expect students to have a store of facts, arguments, sources, etc. in their brains, independently of any external resource. The second model is that we expect students to be resourceful in negotiating the media ecosystem
+
+So one of the known limitations of these models is that they are not in fact engaging with the world in their use of language the way that people do. But this raises the question, are we doing that when we ask our students to write papers?
+
+The question that is raised is: what is the relationship between reading writing and truth? The rationalization effect, the idea that emerges in my mind from thinking about this, has to do with *entextualization*. I distinguish between primary and secondary entextualization.
+
+Primary etextualization is what humans do when they engage directly with the world, artists and scientists, say and produce discourse through that experience. Secondary in textualization is what happens when a scholars go into the library and read a lot and produce papers which are essentially creative reassemblages of what they have read. Extracts and citations.
 
 What kind of knowledge?
+
+Knowledgable and knowled-able
